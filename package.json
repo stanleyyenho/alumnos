@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/stanleyyenho/alumnos/issues"
   },
-  "homepage": "https://github.com/stanleyyenho/alumnos#readme"
+  "homepage": "https://github.com/stanleyyenho/alumnos#readme",
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "wowjs": "^1.1.3"
+  }
 }
