@@ -192,12 +192,7 @@ section{
   margin-right: auto;
 }
 
-#page4 h1{
-    position: relative;
-    bottom: 10px;
-}
-
-#page5{
+#page4{
    color: #2F455B;
    position: relative;
    text-align: right;
@@ -210,7 +205,7 @@ section{
     padding-bottom: 40px;
     position: relative;
     bottom: 30px;
-    background-color: rgba(245,245,245,0.9);
+    background-color: rgba(255,255,255,0.7);
     -webkit-box-shadow: 0px 2px 5px 0.5px rgba(0,0,0,0.2);
     -moz-box-shadow: 0px 2px 5px 0.5px rgba(0,0,0,0.2);
     box-shadow: 0px 2px 5px 0.5px rgba(0,0,0,0.2);
@@ -258,23 +253,23 @@ section{
     bottom: 30px;
     margin: 0 auto;
 }
-#page6{
+#page5{
     font-family:"Raleway", "sans-serif";
     color: #2F455B;
     text-align:center;
 }
-#page6 img{
+#page5 img{
     position: relative;
-    top: 30px;
     margin-bottom: -50px;
+    padding: 30px;
 }
 
-#page7 h1{
-    text-align: right;
+#page5 h1{
+    text-align: center;
     position: relative;
-    bottom: 10px;
+    bottom: 70px;
 }
-#page7 h2{
+#page5 h2{
     padding-top: 40px;
 }
 
@@ -288,7 +283,7 @@ section{
     -moz-box-shadow: 0px 2px 5px 0.5px rgba(0,0,0,0.15);
     box-shadow: 0px 2px 5px 0.5px rgba(0,0,0,0.15);
 }
-#page8{
+#page6{
     text-align: center;
 }
 .footer {
