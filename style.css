@@ -130,7 +130,7 @@ section{
 
 #page2{
     margin:0;
-    height: 600px;
+    height: 770px;
     position: relative;
     display: inline-block;
     text-align: left;
@@ -139,20 +139,24 @@ section{
 .aboutus{
     position: relative;
     float: left;
+    bottom: 5%;
     font-size: 125%;
     width: 50%;
     height: 50%;
     margin: 0;
-    padding-top: 5px;
 }
 .aboutus h2{
-    padding-bottom: 20px;
+    padding-bottom: 30px;
+}
+
+.essay{
+    padding-top: 7%;
+    font-size: 75%;
 }
 .page2logo{
     position: relative;
     float: right;
-    padding-top: 65px;
-    right: 5px;
+    padding-top: 160px;
     width: 40%;
     height: auto;
 }
@@ -267,7 +271,7 @@ section{
 #page5 h1{
     text-align: center;
     position: relative;
-    bottom: 70px;
+    bottom: 25px;
 }
 #page5 h2{
     padding-top: 40px;
@@ -285,30 +289,20 @@ section{
 }
 #page6{
     text-align: center;
+    background-color:#2F455B;
+
 }
-.footer {
-    position: absolute;
-    padding-top: 30px;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: #2F455B;
+.footer{
     color: white;
-}
-.footer img{
-    width: 5%;
-    height: auto;
+    line-height: 80%;
     position: relative;
-    bottom: 25px;
+    top: 20px;
 }
-
-.footer p{
+.footer h1{
     position: relative;
-    bottom: 6px;
+    bottom: 40px;
 }
-
 
 a:hover{
-    text-decoration-color: red;
     text-decoration:none !important;
   }
