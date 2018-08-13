@@ -12,12 +12,12 @@ html{
     width: 100%;
 }
 body{
-    font-family: "Raleway";
+    font-family: "Raleway", "sans-serif";
     overflow: scroll;
 }
 
 #wrapper{
-    font-family: "Raleway";
+    font-family: "Raleway", "sans-serif";
     color: #2F455B;
 }
 
@@ -40,7 +40,7 @@ img {
 }
 
 .navlist {
-    font-family: "Lato";
+    font-family: "Lato", "sans-serif";
     list-style-type: none;
     display: inline-block;
     width: 100%;
@@ -112,7 +112,7 @@ img {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -35%);
-    font-family: "Lato";
+    font-family: "Lato", "sans-serif";
     font-size: 300%;
 }
 
@@ -259,7 +259,7 @@ section{
     margin: 0 auto;
 }
 #page6{
-    font-family:"Raleway";
+    font-family:"Raleway", "sans-serif";
     color: #2F455B;
     text-align:center;
 }
