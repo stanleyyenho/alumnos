@@ -137,6 +137,7 @@ section{
     overflow: hidden;
 }
 .aboutus{
+    font-family: "Raleway", "sans-serif";
     position: relative;
     float: left;
     bottom: 5%;
