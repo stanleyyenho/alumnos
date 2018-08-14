@@ -1,9 +1,10 @@
 @font-face {
-  font-family: "Raleway";
-  src: url("./fonts/Raleway/Raleway-Regular.ttf");
-
   font-family: "Lato";
   src: url("./fonts/Lato/Lato-Light.ttf");
+}
+@font-face {
+  font-family: "Raleway";
+  src: url("./fonts/Raleway/Raleway-Light.ttf");
 }
 
 html{
@@ -12,12 +13,12 @@ html{
     width: 100%;
 }
 body{
-    font-family: "Raleway", "sans-serif";
+    font: "Lato", "sans-serif";
     overflow: scroll;
 }
 
 #wrapper{
-    font-family: "Raleway", "sans-serif";
+    font-family: "Lato", "sans-serif";
     color: #2F455B;
 }
 
@@ -137,7 +138,6 @@ section{
     overflow: hidden;
 }
 .aboutus{
-    font-family: "Raleway", "sans-serif";
     position: relative;
     float: left;
     bottom: 5%;
@@ -259,7 +259,6 @@ section{
     margin: 0 auto;
 }
 #page5{
-    font-family:"Raleway", "sans-serif";
     color: #2F455B;
     text-align:center;
 }
